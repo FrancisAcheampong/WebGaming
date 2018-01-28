@@ -1,0 +1,19 @@
+{
+  "name": "comp397w2018lesson1_b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancisAcheampong/WebGaming.git"
+  },
+  "author": "francis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancisAcheampong/WebGaming/issues"
+  },
+  "homepage": "https://github.com/FrancisAcheampong/WebGaming#readme"
+}
