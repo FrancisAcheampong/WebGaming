@@ -7,7 +7,6 @@
     let helloLabel:createjs.Text;
 
     function Init():void {
-
      console.log("Initialization Started");
      Start();
 
@@ -33,7 +32,7 @@
      helloLabel.y=100;
 
     stage.addChild(helloLabel);
-    
+
     }
 
     window.onload =Init;
